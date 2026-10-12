@@ -1,3 +1,6 @@
-#Many of the uploads are inconsistent because I saved them to Google Drive then upload them into Github at random times. I am also currently as am writing this unsure how to organize my Github.
-# I declare I have used Chat GPT extensively to guide me along the coding process for my assessment. I understand it is a tool of education  and not to do my whole assessment for me.
-#The special feature of my finance tracker is that at the end it give you an option to download the data as a CSV file
+Welcome to 23151651's Repository!
+If the upload dates are funny its because through out the week I've only been saving my projects into Google Drive
+My actual finished code is called: ISYS2001A2.ipynb
+An explaination of what each segment (not line) does is in ExplainationforA2.ipynb
+Faulty model is faulty
+Working Model used AI to help guide, code and educate. I did not use AI to code the final product.
