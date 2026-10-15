@@ -6,7 +6,7 @@
 
 #If the upload dates are funny its because through out the weeks I've only been saving my projects into Google Drive. No offence but I prefered doing my work and projects through Google Drive. 
 
-#My actual finished code is called: ISYS2001A2.ipynb
+#My actual finished code is called: A2FinalProduct
 
 #Faulty model is faulty.
 
